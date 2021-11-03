@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Spy_game/static/css/main.597c60eb.chunk.css",
+    "main.js": "/Spy_game/static/js/main.dbdc779e.chunk.js",
+    "main.js.map": "/Spy_game/static/js/main.dbdc779e.chunk.js.map",
+    "runtime-main.js": "/Spy_game/static/js/runtime-main.9602d4b1.js",
+    "runtime-main.js.map": "/Spy_game/static/js/runtime-main.9602d4b1.js.map",
+    "static/js/2.94f6e787.chunk.js": "/Spy_game/static/js/2.94f6e787.chunk.js",
+    "static/js/2.94f6e787.chunk.js.map": "/Spy_game/static/js/2.94f6e787.chunk.js.map",
+    "static/js/3.e6c0f4a6.chunk.js": "/Spy_game/static/js/3.e6c0f4a6.chunk.js",
+    "static/js/3.e6c0f4a6.chunk.js.map": "/Spy_game/static/js/3.e6c0f4a6.chunk.js.map",
+    "index.html": "/Spy_game/index.html",
+    "static/css/main.597c60eb.chunk.css.map": "/Spy_game/static/css/main.597c60eb.chunk.css.map",
+    "static/js/2.94f6e787.chunk.js.LICENSE.txt": "/Spy_game/static/js/2.94f6e787.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Spy_game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9602d4b1.js",
+    "static/js/2.94f6e787.chunk.js",
+    "static/css/main.597c60eb.chunk.css",
+    "static/js/main.dbdc779e.chunk.js"
+  ]
+}
